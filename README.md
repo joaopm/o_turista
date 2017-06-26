@@ -10,4 +10,4 @@ Passos para realizar a instalação do programa O Turista:
 
 5) Dentro do programa, clique na opção "Abrir" e selecione o arquivo Tripper.bcm.
 
-6) Aperte no ícone iniciar do menu superior e siga as instruções do programa.
+6) Aperte no ícone "Iniciar" do menu superior e siga as instruções do programa.
