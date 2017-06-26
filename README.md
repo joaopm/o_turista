@@ -1,3 +1,5 @@
+O TURISTA
+
 Passos para realizar a instalação do programa O Turista:
 
 1) Acesse o link http://www.lia.ufc.br/~bezerra/exsinta/ e clique em "Download do Expert Sinta".
